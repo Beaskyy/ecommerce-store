@@ -12,7 +12,7 @@ export interface Category {
 
 export interface Product {
   id: string;
-  categories: Category;
+  category: Category;
   name: string;
   isFeatured: boolean;
   size: Size;
