@@ -9,7 +9,7 @@ import IconButton from "@/components/ui/icon-button";
 // import usePreviewModal from "@/hooks/use-preview-modal";
 // import useCart from "@/hooks/use-cart";
 import { Product } from "@/types";
-import Currency from "./currqeny";
+import Currency from "./currency";
 
 interface ProductCard {
   data: Product;
